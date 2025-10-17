@@ -1,4 +1,6 @@
 import type { Metadata, Viewport } from "next";
+import "./globals.css";
+
 
 export const metadata: Metadata = {
   title: { default: "Premio — No-Code MVP Studio", template: "%s | Premio" },
